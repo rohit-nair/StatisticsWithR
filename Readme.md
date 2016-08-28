@@ -1,1 +1,8 @@
 This repository contains notes from the chapters from Field, Miles, Field textbook **Discovering Statistics Using R**
+
+I use Atom editor to view/edit the markdown files with following extensions to support LaTeX:
+  * [mathjax-wrapper](https://atom.io/packages/mathjax-wrapper)
+  * [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus)
+
+
+![Atom Editor Latex/markdown support](../Recs/Atom.png)
