@@ -5,8 +5,9 @@ The difference between the line (model) and the actual data. We calculate the ve
 
 ### Sum of squares, $R$ and $R^2$
 
-#### Total sum of squars ($SS_T$)
+#### Total sum of squares ($SS_T$)
 Sum of square of difference between the values and the mean.
+
 \[
 SS_T = \sum{(y - \bar{y})^2}
 \]
