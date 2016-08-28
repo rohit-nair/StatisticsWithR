@@ -5,4 +5,4 @@ I use Atom editor to view/edit the markdown files with following extensions to s
   * [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus)
 
 
-![Atom Editor Latex/markdown support](../res/Atom.png)
+![Atom Editor Latex/markdown support](https://raw.githubusercontent.com/rohit-nair/StatisticsWithR/master/res/Atom.png)
