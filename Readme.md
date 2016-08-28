@@ -1,4 +1,4 @@
-This repository contains notes from the chapters from Field, Miles, Field textbook **Discovering Statistics Using R**
+This repository contains notes from Field, Miles, Field textbook **Discovering Statistics Using R**
 
 I use Atom editor to view/edit the markdown files with following extensions to support LaTeX:
   * [mathjax-wrapper](https://atom.io/packages/mathjax-wrapper)
